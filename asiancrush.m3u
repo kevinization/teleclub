@@ -1,11 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HD",Stream 1080p
-https://cineverse.g-mana.live/media/1ebfbe30-c35c-4404-8bc5-0339d750eb58/profile/0/profileManifest.m3u8?_uid=5617f5b7-e7a2-4b07-9786-f0e01ff78ae7&rK=eu&_did=9c11f4fe5a1f95aba5d36fae2b28fc39b16cf334
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HD",Stream 720p
-https://cineverse.g-mana.live/media/1ebfbe30-c35c-4404-8bc5-0339d750eb58/profile/1/profileManifest.m3u8?_uid=5617f5b7-e7a2-4b07-9786-f0e01ff78ae7&rK=eu&_did=9c11f4fe5a1f95aba5d36fae2b28fc39b16cf334
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SD",Stream 576p
-https://cineverse.g-mana.live/media/1ebfbe30-c35c-4404-8bc5-0339d750eb58/profile/2/profileManifest.m3u8?_uid=5617f5b7-e7a2-4b07-9786-f0e01ff78ae7&rK=eu&_did=9c11f4fe5a1f95aba5d36fae2b28fc39b16cf334
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Low",Stream 360p
-https://cineverse.g-mana.live/media/1ebfbe30-c35c-4404-8bc5-0339d750eb58/profile/4/profileManifest.m3u8?_uid=5617f5b7-e7a2-4b07-9786-f0e01ff78ae7&rK=eu&_did=9c11f4fe5a1f95aba5d36fae2b28fc39b16cf334
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Low",Stream 216p
-https://cineverse.g-mana.live/media/1ebfbe30-c35c-4404-8bc5-0339d750eb58/profile/3/profileManifest.m3u8?_uid=5617f5b7-e7a2-4b07-9786-f0e01ff78ae7&rK=eu&_did=9c11f4fe5a1f95aba5d36fae2b28fc39b16cf334
+
+# === ASIANCRUSH ===
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="AsianCrush HD",AsianCrush 1080p
+https://cineverse.g-mana.live/media/1ebfbe30-c35c-4404-8bc5-0339d750eb58/profile/0/profileManifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="AsianCrush HD",AsianCrush 720p
+https://cineverse.g-mana.live/media/1ebfbe30-c35c-4404-8bc5-0339d750eb58/profile/1/profileManifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="AsianCrush SD",AsianCrush 576p
+https://cineverse.g-mana.live/media/1ebfbe30-c35c-4404-8bc5-0339d750eb58/profile/2/profileManifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="AsianCrush Low",AsianCrush 360p
+https://cineverse.g-mana.live/media/1ebfbe30-c35c-4404-8bc5-0339d750eb58/profile/4/profileManifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="AsianCrush Low",AsianCrush 216p
+https://cineverse.g-mana.live/media/1ebfbe30-c35c-4404-8bc5-0339d750eb58/profile/3/profileManifest.m3u8
+
+# === RETROCRUSH ===
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RetroCrush HD",RetroCrush 1080p
+https://amg01201-cinedigmenterta-retrocrush-cineverse-nrfll.amagi.tv/playlist/amg01201-cinedigmenterta-retrocrush-cineverse/21/1920x1080_6046040/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RetroCrush HD",RetroCrush 720p
+https://amg01201-cinedigmenterta-retrocrush-cineverse-nrfll.amagi.tv/playlist/amg01201-cinedigmenterta-retrocrush-cineverse/21/1280x720_3329040/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RetroCrush SD",RetroCrush 480p
+https://amg01201-cinedigmenterta-retrocrush-cineverse-nrfll.amagi.tv/playlist/amg01201-cinedigmenterta-retrocrush-cineverse/21/848x480_1686360/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RetroCrush SD",RetroCrush 360p
+https://amg01201-cinedigmenterta-retrocrush-cineverse-nrfll.amagi.tv/playlist/amg01201-cinedigmenterta-retrocrush-cineverse/21/640x360_1057680/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RetroCrush Low",RetroCrush 240p
+https://amg01201-cinedigmenterta-retrocrush-cineverse-nrfll.amagi.tv/playlist/amg01201-cinedigmenterta-retrocrush-cineverse/21/426x240_511680/index.m3u8
