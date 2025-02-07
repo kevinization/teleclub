@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HD",Stream 1080p
+https://cineverse.g-mana.live/media/1ebfbe30-c35c-4404-8bc5-0339d750eb58/profile/0/profileManifest.m3u8?_uid=5617f5b7-e7a2-4b07-9786-f0e01ff78ae7&rK=eu&_did=9c11f4fe5a1f95aba5d36fae2b28fc39b16cf334
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HD",Stream 720p
+https://cineverse.g-mana.live/media/1ebfbe30-c35c-4404-8bc5-0339d750eb58/profile/1/profileManifest.m3u8?_uid=5617f5b7-e7a2-4b07-9786-f0e01ff78ae7&rK=eu&_did=9c11f4fe5a1f95aba5d36fae2b28fc39b16cf334
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SD",Stream 576p
+https://cineverse.g-mana.live/media/1ebfbe30-c35c-4404-8bc5-0339d750eb58/profile/2/profileManifest.m3u8?_uid=5617f5b7-e7a2-4b07-9786-f0e01ff78ae7&rK=eu&_did=9c11f4fe5a1f95aba5d36fae2b28fc39b16cf334
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Low",Stream 360p
+https://cineverse.g-mana.live/media/1ebfbe30-c35c-4404-8bc5-0339d750eb58/profile/4/profileManifest.m3u8?_uid=5617f5b7-e7a2-4b07-9786-f0e01ff78ae7&rK=eu&_did=9c11f4fe5a1f95aba5d36fae2b28fc39b16cf334
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Low",Stream 216p
+https://cineverse.g-mana.live/media/1ebfbe30-c35c-4404-8bc5-0339d750eb58/profile/3/profileManifest.m3u8?_uid=5617f5b7-e7a2-4b07-9786-f0e01ff78ae7&rK=eu&_did=9c11f4fe5a1f95aba5d36fae2b28fc39b16cf334
